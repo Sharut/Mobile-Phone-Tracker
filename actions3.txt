@@ -1,0 +1,37 @@
+addExchange 0 1
+addExchange 0 2
+addExchange 0 3
+addExchange 1 4
+addExchange 5 6
+addExchange 1 5
+addExchange 3 1
+addExchange 0 1
+addExchange 2 8
+addExchange 2 6
+addExchange 3 7
+switchOnMobile 99 7
+switchOnMobile 196 6
+switchOnMobile 196 7
+switchOnMobile 701 8
+switchOnMobile 660 6
+switchOnMobile 196 6
+switchOnMobile 312 9
+switchOnMobile 312 4
+switchOnMobile 252 4
+switchOnMobile 216 5
+switchOffMobile 216
+switchOffMobile 216
+switchOffMobile 312
+switchOffMobile 345
+switchOffMobile 701
+queryNthChild 0 0
+queryNthChild 0 1
+queryNthChild 0 2
+queryNthChild 0 3
+queryNthChild 9 0
+queryNthChild 3 1
+queryNthChild 1 0
+queryNthChild 2 1
+queryMobilePhoneSet 0
+queryMobilePhoneSet 6
+queryMobilePhoneSet 8
